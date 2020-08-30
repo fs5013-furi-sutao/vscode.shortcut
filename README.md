@@ -44,3 +44,5 @@ VSCode のショートカットキー
 |	F10| | |ステップ オーバーする|
 
 
+過去の自分に教えなければならないVSCodeのショートカット：
+https://qiita.com/rana_kualu/items/ea78200036fc80dce0a9
